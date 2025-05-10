@@ -12,7 +12,7 @@ Welcome to the repository for analyzing the **SNFVBP Program**.
 
 - `data/` — Public datasets (if allowed)
 - `codes/` — Codes for analysis
-- `src/` — Python/R scripts
+- `src/` — Data cleaning Python/R scripts
 - `results/` — Final plots & reports
 
 ## 📝 Contact
