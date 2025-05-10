@@ -11,7 +11,7 @@ Welcome to the repository for analyzing the **SNFVBP Program**.
 ## 📂 Contents
 
 - `data/` — Public datasets (if allowed)
-- `notebooks/` — Jupyter Notebooks for analysis
+- `codes/` — Codes for analysis
 - `src/` — Python/R scripts
 - `results/` — Final plots & reports
 
